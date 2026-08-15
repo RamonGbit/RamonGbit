@@ -1,9 +1,6 @@
 # Just a guy who wants to work at home with his computer 
 
-## 19 years old FullStack Developer who really likes to name his commits with straight bs
-## i mean honestly, who name their commits seriously while working alone ? thats psycho behaviour.
-## please dont check the commits history for this repo btw
-## for the record, i name my commits well when team working, please dont reject my resume for bad commits names
+## 19 years old FullStack Developer who really likes to name his commits with straight bs, i mean honestly, who name their commits seriously while working alone ? thats psycho behaviour. Please dont check the commits history for this repo btw. (For the record, i name my commits well when team working, please dont reject my resume for bad commits names).
 
 <h1> Languages </h1>
 <span> 
