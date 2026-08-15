@@ -21,6 +21,11 @@
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwindcss&logoColor=white">
 </span>
 
+<div align="center"> 
+<a href="https://www.instagram.com/marcy_bonifacio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div>
+
+
 <!--
 **RamonGbit/RamonGbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
