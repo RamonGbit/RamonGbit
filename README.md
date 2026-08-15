@@ -1,4 +1,8 @@
-## Hi there 👋
+# Just a guy who wants to work at home with his computer 
+
+## 19 years old FullStack Developer who really likes to name his commits with straight bs
+## i mean honestly, who name their commits seriously while working alone ? thats psycho behaviour.
+## please dont check the commits history for this repo btw
 
 <h1> Languages </h1>
 <span> 
