@@ -35,6 +35,18 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+  <h4> Github activity: <h4>
+  <h2>⚙️ Github Stats</h2> 
+
+<p align="center">
+  <a href="https://github.com/RamonGbit">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RamonGbit&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/RamonGbit">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RamonGbit&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 </span>
 
 
